@@ -1,2 +1,4 @@
-# License
-"We respect the software developer's right."
+# License Repository
+```
+We respect the software developer's right."
+```
